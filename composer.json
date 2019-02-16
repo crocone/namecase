@@ -1,0 +1,15 @@
+{
+  "name": "crocone/namecase",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Evgeny Shevtsov",
+      "email": "shevtsov@croc.one"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "crocone\\namecase\\": ""
+    }
+  }
+}
