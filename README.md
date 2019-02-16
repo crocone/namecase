@@ -18,5 +18,5 @@ to the `require` section of your composer.json.
 
 ```php
 $nc = new NCLNameCaseRu();
-echo $nc->qFirstName("Николай");
+print_r($nc->qFirstName("Николай"));
  ```

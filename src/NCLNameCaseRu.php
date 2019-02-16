@@ -3,6 +3,7 @@
 namespace Crocone\Namecase;
 
 use Crocone\Namecase\Ncl\NCLNameCaseCore;
+use Crocone\Namecase\Ncl\NCLNameCaseWord;
 
 /**
  * <b>NCL NameCase Russian Language</b>
