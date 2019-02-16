@@ -1,8 +1,8 @@
 <?php
 
-namespace Namecase;
+namespace Crocone\Namecase;
 
-use Namecase\Ncl\NCLNameCaseCore;
+use Crocone\Namecase\Ncl\NCLNameCaseCore;
 
 /**
  * <b>NCL NameCase Russian Language</b>

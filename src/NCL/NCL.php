@@ -1,5 +1,5 @@
 <?php
-namespace Namecase\Ncl;
+namespace Crocone\Namecase\Ncl;
 /**
  * Класс, который содержит основные константы библиотеки:
  * - индексы мужского и женского пола

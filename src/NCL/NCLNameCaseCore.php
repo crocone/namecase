@@ -1,9 +1,9 @@
 <?php
-namespace Namecase\Ncl;
+namespace Crocone\Namecase\Ncl;
 
-use Namecase\Ncl\NCL;
-use Namecase\Ncl\NCLNameCaseWord;
-use Namecase\Ncl\NCLStr;
+use Crocone\Namecase\Ncl\NCL;
+use Crocone\Namecase\Ncl\NCLNameCaseWord;
+use Crocone\Namecase\Ncl\NCLStr;
 
 /**
  * <b>NCL NameCase Core</b>

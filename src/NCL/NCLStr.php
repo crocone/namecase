@@ -1,5 +1,5 @@
 <?php
-    namespace Namecase\Ncl;
+    namespace Crocone\Namecase\Ncl;
 /**
  * Класс содержит функции для работы со строками, которые используются в NCLNameCaseLib
  * 

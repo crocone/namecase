@@ -1,5 +1,5 @@
 <?php
-	namespace Namecase\Ncl;
+	namespace Crocone\Namecase\Ncl;
 /**
  * NCLNameCaseWord - класс, который служит для хранения всей информации о каждом слове
  *
